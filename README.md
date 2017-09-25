@@ -15,10 +15,22 @@ List of articles, tutorials and code repositories that what should know an iron 
 
 ## `ORM` 
 1. [NHibernate](https://www.tutorialspoint.com/nhibernate/index.htm) - Great NHibernate Tutorial.Everything is explained simply and clearly 
-2. [Entity Framework](https://metanit.com/sharp/entityframework/) - подробное руководство по Entity Framework
+2. [Entity Framework](https://metanit.com/sharp/entityframework/) - Подробное руководство по Entity Framework
 3. [ADO.NET](https://metanit.com/sharp/adonet/) - Руководство по ADO.NET и работе с базами данных
 
 ## Computer science
+1. [algolist.manual](http://algolist.manual.ru/) - Собран теоретический материал по алгоритмам и структурам данных
+1. [e-maxx.ru](https://e-maxx.ru/algo/) - Крупнейший сайт по теории алгоритмов и структур данных
+1. [clist.by](http://clist.by/) - Онлайн календарь, проходящих соревнований на всех площадках
+1. [lektorium.tv](https://www.lektorium.tv/lecture/13343) - Видеокурс по алгоритмам и структурам данным 
+1. [topcoder](https://www.topcoder.com/) - Один из самых крупных площадок проведения олимпиад по спортивному программированию
+1. [spoj.com](http://www.spoj.com/) - Огромный архив олимпиадным задачам задач 
+1. [codeforces](http://codeforces.com/) - Один из самых крутых площадок проведения олимпиад по программированию. Каждую неделю бывают рейтинговые контесты. Очень советую.
+1. [timus](http://acm.timus.ru/) - Старый, но огромный сайт для решения олимпиадных задач.
+1. [informatics.mccme](http://informatics.mccme.ru/) - Полезный сборник задач, удобная навигация. Советую новичкам.
+1. [snarknews](http://snarknews.info/) - Самая актуальная информация о соревнованиях и сборах по олимпиадному программированию.
+1. [new.bacs.cs.istu](http://new.bacs.cs.istu.ru/Announcement) - Сайт ижевского ГТУ. Можно тренироваться.
+1. [www.e-olymp](https://www.e-olymp.com/ru/) - Проводятся соревнования и есть архив задач.
 
 ## MS SQL
 
