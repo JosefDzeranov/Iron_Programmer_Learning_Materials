@@ -11,3 +11,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 5. [developer.android.com](https://developer.android.com/develop/index.html) - Official Google documentation. You can find there anithing you need. Intermediate level. 
 6. [metanit.com](https://metanit.com/java/) - Раздел о языке программирования Java на Metanit.com
 Программирование на языке Java с применением сопутствующих технологий (в том числе с помощью технологий Swing, AWT, JSP, Java fx 2.0).
+
+
+## `ORM` 
+1. [NHibernate](https://www.tutorialspoint.com/nhibernate/index.htm) - Great NHibernate Tutorial.Everything is explained simply and clearly 
+2. [Entity Framework](https://metanit.com/sharp/entityframework/) - подробное руководство по Entity Framework
