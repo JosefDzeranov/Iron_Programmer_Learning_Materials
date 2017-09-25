@@ -16,3 +16,10 @@ List of articles, tutorials and code repositories that what should know an iron 
 ## `ORM` 
 1. [NHibernate](https://www.tutorialspoint.com/nhibernate/index.htm) - Great NHibernate Tutorial.Everything is explained simply and clearly 
 2. [Entity Framework](https://metanit.com/sharp/entityframework/) - подробное руководство по Entity Framework
+3. [ADO.NET](https://metanit.com/sharp/adonet/) - Руководство по ADO.NET и работе с базами данных
+
+## Computer science
+
+## MS SQL
+
+## C#
