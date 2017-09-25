@@ -28,6 +28,7 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [codeforces](http://codeforces.com/) - Один из самых крутых площадок проведения олимпиад по программированию. Каждую неделю бывают рейтинговые контесты. Очень советую.
 1. [timus](http://acm.timus.ru/) - Старый, но огромный сайт для решения олимпиадных задач.
 1. [informatics.mccme](http://informatics.mccme.ru/) - Полезный сборник задач, удобная навигация. Советую новичкам.
+1. [codility](https://codility.com/programmers/) - Очень интересный архив задач, также проводятся крупные соревнования.
 1. [snarknews](http://snarknews.info/) - Самая актуальная информация о соревнованиях и сборах по олимпиадному программированию.
 1. [new.bacs.cs.istu](http://new.bacs.cs.istu.ru/Announcement) - Сайт ижевского ГТУ. Можно тренироваться.
 1. [www.e-olymp](https://www.e-olymp.com/ru/) - Проводятся соревнования и есть архив задач.
