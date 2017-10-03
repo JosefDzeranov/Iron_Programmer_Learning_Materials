@@ -15,7 +15,7 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [snarknews](http://snarknews.info/) - Самая актуальная информация о соревнованиях и сборах по олимпиадному программированию.
 1. [new.bacs.cs.istu](http://new.bacs.cs.istu.ru/Announcement) - Сайт ижевского ГТУ. Можно тренироваться.
 1. [www.e-olymp](https://www.e-olymp.com/ru/) - Проводятся соревнования и есть архив задач.
-1. [https://proglib.io/p/awesome-algorithms/](https://proglib.io/p/awesome-algorithms/) - Огромный список книг по алгоритмам
+1. [awesome-algorithms](https://proglib.io/p/awesome-algorithms/) - Огромный список книг по алгоритмам
 
 ## C#
 1. [MSDN](https://msdn.microsoft.com/ru-ru/library/zkxk2fwf(v=vs.90).aspx) - Официальная документация по C#
