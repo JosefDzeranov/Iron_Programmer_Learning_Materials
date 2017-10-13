@@ -50,7 +50,7 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [habrahabr](https://habrahabr.ru/post/277699/) - Основные моменты о Docker для начинающих
 1. [habrahabr](https://habrahabr.ru/post/250469/) - О Docker
 1. [docker.com](https://docs.docker.com/engine/docker-overview/) - Официальная документация Docker
-
+1. [habrahabr](https://habrahabr.ru/post/310460/) - Полное практическое руководство по Docker: с нуля до кластера на AWS
 
 ## MS SQL
 
