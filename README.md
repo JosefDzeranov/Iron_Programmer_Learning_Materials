@@ -44,6 +44,13 @@ List of articles, tutorials and code repositories that what should know an iron 
 3. [ADO.NET](https://metanit.com/sharp/adonet/) - Руководство по ADO.NET и работе с базами данных
 
 
+## Docker
+1. [docker](https://zinchenko.us/article/category/devops/) - Простым и понятным языком написано про Docker, зачем он нужен, его плюсы и как им пользоваться. Очень подходит для начинающих
+1. [habrahabr](https://habrahabr.ru/post/309556/) - Вводная статья про Docker для начинающих
+1. [habrahabr](https://habrahabr.ru/post/277699/) - Основные моменты о Docker для начинающих
+1. [habrahabr](https://habrahabr.ru/post/250469/) - О Docker
+1. [docker.com](https://docs.docker.com/engine/docker-overview/) - Официальная документация Docker
+
 
 ## MS SQL
 
