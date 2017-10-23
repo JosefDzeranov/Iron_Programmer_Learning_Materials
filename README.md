@@ -54,3 +54,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 
 ## MS SQL
 
+
+## Трансформации 
+1. [habrahabr.ru](https://habrahabr.ru/post/255045/) - Преключения между DEV и PROD-окружениями
+1. [habrahabr.ru](https://habrahabr.ru/post/329194/) - Cake для сборки C# кода
+1. [cakebuild.net](https://cakebuild.net/) - Официальная страница Cake
