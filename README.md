@@ -59,3 +59,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [habrahabr.ru](https://habrahabr.ru/post/255045/) - Преключения между DEV и PROD-окружениями
 1. [habrahabr.ru](https://habrahabr.ru/post/329194/) - Cake для сборки C# кода
 1. [cakebuild.net](https://cakebuild.net/) - Официальная страница Cake
+
+
+## Функциональное программирование
+1. [habrahabr.ru](https://habrahabr.ru/post/142351/) - Хорошая вводная статья для начинающих. Рассказывается про плюсы функционального программирование 
+1. [Харисон. Функциональное программирование](http://www.nsu.ru/xmlui/bitstream/handle/nsu/8874/Harrison.pdf;jsessionid=1213BEA521F3C0A2D5EE788DA789D2BB?sequence=1) - Книга, которую должен прочитать каждый начинающий функциональщик
