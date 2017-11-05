@@ -2,22 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using Algorithms;
 using FluentAssertions;
 using Ploeh.AutoFixture;
-using Ploeh.AutoFixture.NUnit3;
 
 namespace Algorithms.Tests
 {
     [TestFixture]
     internal sealed class CollectionsTests
     {
-        private Fixture fixture;
+        private Fixture _fixture;
 
         [SetUp]
         public void TestInitialize()
         {
-            fixture = new Fixture();
+            _fixture = new Fixture();
         }
 
         [Test]
@@ -38,8 +36,8 @@ namespace Algorithms.Tests
         public void Shiffle_Items_MixedItemsReturned()
         {
             // Arrange
-            var count = Math.Abs(fixture.Create<int>());
-            var collection = fixture.CreateMany<int>(count).Distinct().ToList();
+            var count = Math.Abs(_fixture.Create<int>());
+            var collection = _fixture.CreateMany<int>(count).Distinct().ToList();
             var collection2 = new List<int>(collection);
             // Act
             collection.Shiffle();
