@@ -10,9 +10,21 @@ namespace Algorithms.Strings
         /// </summary>
         /// <param name="s">First input string</param>
         /// <param name="t">Second input string</param>
+        /// <param name="costInsert">Cost for insert</param>
+        /// <param name="costDelete">Cost for delete</param>
+        /// <param name="costReplace">Cost for replaces</param>
+        /// <exception cref="ArgumentNullException"></exception>
         /// <returns>Prescription - the edit distance and the path retraced</returns>
-        public static Prescription Levenshtein(string s, string t)
+        public static Prescription Levenshtein(string s, string t, int costInsert = 1, int costDelete = 1, int costReplace = 1)
         {
+            if (s == null)
+            {
+                throw new ArgumentNullException(nameof(s));
+            }
+            if (t == null)
+            {
+                throw new ArgumentNullException(nameof(t));
+            }
             int m = s.Length, n = t.Length;
             var d = new int[m + 1, n + 1];
             var p = new char[m + 1, n + 1];
@@ -20,40 +32,42 @@ namespace Algorithms.Strings
             // First fill the basic values
             for (i = 0; i <= m; i++)
             {
-                d[i, 0] = i;
+                d[i, 0] = i * costDelete;
                 p[i, 0] = 'D';
             }
             for (i = 0; i <= n; i++)
             {
-                d[0, i] = i;
+                d[0, i] = i * costInsert;
                 p[0, i] = 'I';
             }
 
             for (i = 1; i <= m; i++)
                 for (j = 1; j <= n; j++)
                 {
-                    int cost = s[i - 1] != t[j - 1] ? 1 : 0;
-                    if (cost == 0)
+                    if (s[i - 1] == t[j - 1])
                     {
                         d[i, j] = d[i - 1, j - 1];
+                        p[i, j] = 'M';
+                        continue;
                     }
-                    if (d[i, j - 1] < d[i - 1, j] && d[i, j - 1] < d[i - 1, j - 1] + cost)
+
+                    if (d[i, j - 1] + costInsert < d[i - 1, j] + costDelete && d[i, j - 1] + costInsert < d[i - 1, j - 1] + costReplace)
                     {
                         //Inserting
-                        d[i, j] = d[i, j - 1] + 1;
+                        d[i, j] = d[i, j - 1] + costInsert;
                         p[i, j] = 'I';
                     }
-                    else if (d[i - 1, j] < d[i - 1, j - 1] + cost)
+                    else if (d[i - 1, j] + costDelete < d[i - 1, j - 1] + costReplace)
                     {
                         //Deleting
-                        d[i, j] = d[i - 1, j] + 1;
+                        d[i, j] = d[i - 1, j] + costDelete;
                         p[i, j] = 'D';
                     }
                     else
                     {
-                        //Doing nothing or replacing
-                        d[i, j] = d[i - 1, j - 1] + cost;
-                        p[i, j] = cost == 1 ? 'R' : 'M';
+                        //Replacing
+                        d[i, j] = d[i - 1, j - 1] + costReplace;
+                        p[i, j] = 'R';
                     }
                 }
 

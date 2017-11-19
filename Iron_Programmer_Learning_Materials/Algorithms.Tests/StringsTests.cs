@@ -112,7 +112,7 @@ namespace Algorithms.Tests
             // Arrange
             var s = "ATGTTATA";
             var t = "ATCGTCC";
-            var expected = new Prescription(5, "MMIMMRRDD");
+            var expected = new Prescription(5, "MMRRMDRR");
 
             // Act
             var actual = Strings.Strings.Levenshtein(s, t);
