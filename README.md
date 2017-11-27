@@ -1,5 +1,12 @@
 # Iron_Programmer_Learning_Materials
 List of articles, tutorials and code repositories that what should know an iron programmer
+
+## ASP.NET Core
+1. [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/index) - Туториалы от Майкрософта
+1. [Переход с ASP.NET к ASP.NET Core 2.0](https://habrahabr.ru/post/338298/) - Переход с ASP.NET к ASP.NET Core 2.0
+1. [microsoft.com/ru/training-courses/-aspnet-core](https://mva.microsoft.com/ru/training-courses/-aspnet-core-10-17179?l=edpuhShXD_9811100275) - Курс от Майкрософта "Введение в ASP.NET Core 1.0"
+
+
 ## Computer science
 1. [algolist.manual](http://algolist.manual.ru/) - Собран теоретический материал по алгоритмам и структурам данных
 1. [e-maxx.ru](https://e-maxx.ru/algo/) - Крупнейший сайт по теории алгоритмов и структур данных
