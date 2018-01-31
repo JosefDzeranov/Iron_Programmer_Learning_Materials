@@ -32,6 +32,12 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [Основы программирования](https://ulearn.me/Course/BasicProgramming/Kratkaia_spravka_pieried_nachalom_69a2e121-e58f-4cd0-8221-7affb7dc796e) - Основы программирования на C#
 1. [Eric Lipert](https://blogs.msdn.microsoft.com/ruericlippert/) - блог Эрика Липерта
 
+## C# 7
+1. [habrahabr.ru](https://habrahabr.ru/post/345376/) - Исследование кортежей в C# 7
+1. [habrahabr.ru](https://habrahabr.ru/post/346174/) - Локальные функции в C# 7
+1. [habrahabr.ru](https://habrahabr.ru/post/347916/) - Cопоставление с образцом в C# 7
+1. [blogs.msdn.microsoft.com](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/) -  Что нового в C# 7. Обзор новых возможнойстей
+
 ## `Git`
 1. [githowto.com](https://githowto.com/ru) - это интерактивный тур, который познакомит вас с основами Git.
 
