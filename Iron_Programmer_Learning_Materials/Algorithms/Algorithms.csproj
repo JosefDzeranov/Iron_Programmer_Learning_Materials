@@ -38,7 +38,7 @@
     <Compile Include="Collections.cs" />
     <Compile Include="Metrics\Prescription.cs" />
     <Compile Include="Metrics\Levenshtein.cs" />
-    <Compile Include="Extensions\Strings.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
