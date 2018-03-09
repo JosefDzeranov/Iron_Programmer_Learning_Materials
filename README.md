@@ -36,6 +36,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [habrahabr.ru](https://habrahabr.ru/post/345376/) - Исследование кортежей в C# 7
 1. [habrahabr.ru](https://habrahabr.ru/post/346174/) - Локальные функции в C# 7
 1. [habrahabr.ru](https://habrahabr.ru/post/347916/) - Cопоставление с образцом в C# 7
+1. [https://habrahabr.ru/post/348658/](https://habrahabr.ru/post/348658/) - Throw выражения в C# 7
+1. [https://habrahabr.ru/post/350710/](https://habrahabr.ru/post/350710/) - Минорные возможности в C# 7
 1. [blogs.msdn.microsoft.com](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/) -  Что нового в C# 7. Обзор новых возможнойстей
 
 ## `Git`
