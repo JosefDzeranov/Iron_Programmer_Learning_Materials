@@ -36,9 +36,18 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [habrahabr.ru](https://habrahabr.ru/post/345376/) - Исследование кортежей в C# 7
 1. [habrahabr.ru](https://habrahabr.ru/post/346174/) - Локальные функции в C# 7
 1. [habrahabr.ru](https://habrahabr.ru/post/347916/) - Cопоставление с образцом в C# 7
-1. [https://habrahabr.ru/post/348658/](https://habrahabr.ru/post/348658/) - Throw выражения в C# 7
-1. [https://habrahabr.ru/post/350710/](https://habrahabr.ru/post/350710/) - Минорные возможности в C# 7
+1. [habrahabr.ru](https://habrahabr.ru/post/348658/) - Throw выражения в C# 7
+1. [habrahabr.ru](https://habrahabr.ru/post/350710/) - Минорные возможности в C# 7
 1. [blogs.msdn.microsoft.com](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/) -  Что нового в C# 7. Обзор новых возможнойстей
+
+## Dependency Injection (Внедрение зависимостей)
+1. [Dependency-Injection-NET-Mark-Seemann](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501) - Книга написанная на простом языке. Является обязательным к прочтению кто хочет разобраться с внедрением зависимостей
+1. [habrahabr.ru](https://habrahabr.ru/post/350708/#start) - Контейнеры внедрения зависимостей и выгоды от их использования
+1. [https://habrahabr.ru/post/349836/](https://habrahabr.ru/post/349836/) - Understanding Dependencies
+1. [https://habrahabr.ru/post/350068/](https://habrahabr.ru/post/350068/) - Dependency injection
+1. [https://habrahabr.ru/post/350708/#start_DI_containers](https://habrahabr.ru/post/350708/#start_DI_containers) - Контейнеры внедрения зависимостей и выгоды от их использования
+1. [http://sergeyteplyakov.blogspot.ru](http://sergeyteplyakov.blogspot.ru/search/label/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8F%D0%BC%D0%B8) - Управление зависимостями. Цикл статей от Сергея Теплякова про управление зависимостей. Написано все легко и просто. Помогает закрепить прочитанный материал
+1. [http://tutorials.jenkov.com/dependency-injection](http://tutorials.jenkov.com/dependency-injection/index.html) - Цикл статей на английском языке от Jakob Jenkov
 
 ## `Git`
 1. [githowto.com](https://githowto.com/ru) - это интерактивный тур, который познакомит вас с основами Git.
