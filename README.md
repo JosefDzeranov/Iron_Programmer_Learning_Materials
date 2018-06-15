@@ -4,7 +4,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 ## ASP.NET Core
 1. [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/index) - Туториалы от Майкрософта
 1. [Переход с ASP.NET к ASP.NET Core 2.0](https://habrahabr.ru/post/338298/) - Переход с ASP.NET к ASP.NET Core 2.0
-1. [microsoft.com/ru/training-courses/-aspnet-core](https://mva.microsoft.com/ru/training-courses/-aspnet-core-10-17179?l=edpuhShXD_9811100275) - Курс от Майкрософта "Введение в ASP.NET Core 1.0"
+1. [microsoft.com/ru/training-courses/-aspnet-core](https://mva.microsoft.com/ru/training-courses/-aspnet-core-10-17179?l=edpuhShXD_9811100275) - Курс от Майкрософта "Введение в ASP.NET Core 1.0" 
+1. []
 
 
 ## Computer science
@@ -51,6 +52,10 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [rsdn.org](https://rsdn.org/article/patterns/14-22-pattern/14-22-pattern.xml#E1CAC) - Статья, в котором собраны все паттерны DI 
 1. [https://habr.com/post/352530/](https://habr.com/post/352530/) - еще одна статья про внедрение зависимостей
 1. [https://habr.com/post/352574/](https://habr.com/post/352574/) - продолжение предыдущей статьи 
+1. [http://dotnetliberty.com](http://dotnetliberty.com/index.php/2015/10/15/asp-net-5-mvc6-dependency-injection-in-6-steps/) - стандартное внедрение зависимостей в Asp Net Core. 
+1. [https://stackify.com](https://stackify.com/net-core-dependency-injection/) - .Net Core Dependency Injection
+1. [https://docs.microsoft.com](https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.1) - Внедрение зависимостей в ASP.NET Core
+1. [https://www.infoworld.com](https://www.infoworld.com/article/3232636/application-development/how-to-use-dependency-injection-in-aspnet-core.html) - How to use dependency injection in ASP.Net Core
 
 ## `Git`
 1. [githowto.com](https://githowto.com/ru) - это интерактивный тур, который познакомит вас с основами Git.
