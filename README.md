@@ -49,6 +49,8 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [http://sergeyteplyakov.blogspot.ru](http://sergeyteplyakov.blogspot.ru/search/label/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8F%D0%BC%D0%B8) - Управление зависимостями. Цикл статей от Сергея Теплякова про управление зависимостей. Написано все легко и просто. Помогает закрепить прочитанный материал
 1. [http://tutorials.jenkov.com/dependency-injection](http://tutorials.jenkov.com/dependency-injection/index.html) - Цикл статей на английском языке от Jakob Jenkov
 1. [rsdn.org](https://rsdn.org/article/patterns/14-22-pattern/14-22-pattern.xml#E1CAC) - Статья, в котором собраны все паттерны DI 
+1. [https://habr.com/post/352530/](https://habr.com/post/352530/) - еще одна статья про внедрение зависимостей
+1. [https://habr.com/post/352574/](https://habr.com/post/352574/) - продолжение предыдущей статьи 
 
 ## `Git`
 1. [githowto.com](https://githowto.com/ru) - это интерактивный тур, который познакомит вас с основами Git.
