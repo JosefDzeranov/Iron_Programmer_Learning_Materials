@@ -110,10 +110,10 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [Харисон. Функциональное программирование](http://www.nsu.ru/xmlui/bitstream/handle/nsu/8874/Harrison.pdf;jsessionid=1213BEA521F3C0A2D5EE788DA789D2BB?sequence=1) - Книга, которую должен прочитать каждый начинающий функциональщик
 
 ## Roslyn
+1. [https://www.viva64.com](https://www.viva64.com/ru/b/0399/#ID0EG1AK) - Введение в Roslyn. Использование для разработки инструментов статического анализа. Расписывается все очень простым языком. ОЧЕНЬ РЕКОМЕНДУЕТСЯ ДЛЯ ЧТЕНИЯ!!!
 1. [https://visualstudiomagazine.com](https://visualstudiomagazine.com/articles/2012/03/20/10-questions-10-answers-on-roslyn.aspx) - 10 Questions, 10 Answers on Roslyn. Разбираются основные вопросы
 1. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/66489a/what-is-roslyn-compiler-in-visual-studio/?) - Roslyn Compiler in Visual Studio 2015
 1. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com/UploadFile/66489a/what-is-roslyn-compiler-in-visual-studio/?) - 
-1. [https://www.viva64.com](https://www.viva64.com/ru/b/0399/#ID0EG1AK) - Введение в Roslyn. Использование для разработки инструментов статического анализа. Расписывается все очень простым языком. ОЧЕНЬ РЕКОМЕНДУЕТСЯ ДЛЯ ЧТЕНИЯ!!!
 1. [https://msdn.microsoft.com](https://msdn.microsoft.com/ru-ru/magazine/dn818501.aspx) - Работающий программист. Восход Roslyn
 1. [https://smarly.net](https://smarly.net/metaprogramming-in-net/languages-and-tools/managing-the--net-compiler/understanding-the-basics-of-roslyn) - Понимание основ Roslyn
 1. [https://habr.com](https://habr.com/post/133340/) - Расширяем C# с помощью Roslyn. Безопасные вызовы
