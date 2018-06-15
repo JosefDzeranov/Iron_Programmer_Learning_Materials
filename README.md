@@ -5,7 +5,17 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/index) - Туториалы от Майкрософта
 1. [Переход с ASP.NET к ASP.NET Core 2.0](https://habrahabr.ru/post/338298/) - Переход с ASP.NET к ASP.NET Core 2.0
 1. [microsoft.com/ru/training-courses/-aspnet-core](https://mva.microsoft.com/ru/training-courses/-aspnet-core-10-17179?l=edpuhShXD_9811100275) - Курс от Майкрософта "Введение в ASP.NET Core 1.0" 
-1. []
+#### Deploy
+1. [https://docs.microsoft.com](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/iis/?view=aspnetcore-2.1&tabs=aspnetcore2x) - Размещение ASP.NET Core в Windows со службами IIS
+1. [https://metanit.com/sharp/aspnet5/20.1.php](https://metanit.com/sharp/aspnet5/20.1.php) - Публикация asp net core приложения в IIS
+1. [https://metanit.com](https://metanit.com/sharp/articles/mvc/6.php) - Хостинг ASP.NET
+1. [https://stackify.com](https://stackify.com/how-to-deploy-asp-net-core-to-iis/) - How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works
+1. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com/article/publish-asp-net-core-2-0-application-on-iis/) - Publish ASP.NET Core 2.0 Application on IIS
+1. [https://www.youtube.com](https://www.youtube.com/watch?v=ZZfRlBMHds8) - Deploy Asp.net Core 2.0 application on IIS (VIDEO)
+1. [http://jakeydocs.readthedocs.io](http://jakeydocs.readthedocs.io/en/latest/publishing/iis.html) - dosc Microsoft for publishing to IIS
+1. [https://neelbhatt.com](https://neelbhatt.com/2018/01/30/deploy-net-core-application-to-iis-step-by-step-guide/) - Deploy .Net Core application to IIS: Step by step guide
+
+
 
 
 ## Computer science
