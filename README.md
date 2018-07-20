@@ -119,7 +119,16 @@ List of articles, tutorials and code repositories that what should know an iron 
 1. [https://habr.com](https://habr.com/post/133340/) - Расширяем C# с помощью Roslyn. Безопасные вызовы
 1. [https://habr.com](https://habr.com/post/172487/) - Генерируем на .Net. Расписывается виды динамической генерации кода 
 
+## `External Services`
 
-
-
-
+### Apple Pay on Web
+1. [https://developer.apple.com](https://developer.apple.com/documentation/apple_pay_on_the_web) - начинаем с официальной документации
+1. [https://developer.apple.com](https://developer.apple.com/documentation/apple_pay_on_the_web/setting_up_your_server) - настройки сервера на котором будет работать apple pay
+1. [https://www.ssllabs.com](https://www.ssllabs.com/ssltest/analyze.html) - проверка вашего сервера на наличие сертификатов и т.д.
+1. [https://developer.apple.com](https://developer.apple.com/documentation/apple_pay_on_the_web/configuring_your_environment) - настройки вашего окружения (создание аккаунтов, сертификатов)
+1. [https://help.apple.com](https://help.apple.com/developer-account/#/dev1731126fb) - инструкция по созданию и настройке аккаунтов
+1. [https://habr.com](https://habr.com/company/ivi/blog/344744/) - полезно для чтения, пост на русском, все на простом языке. Нужно чтобы переварить прочитанную ранее официальную документацию
+1. [https://github.com/justeat/ApplePayJSSample](https://github.com/justeat/ApplePayJSSample) - пример проекта на C# 
+1. [https://www.oshyn.com](https://www.oshyn.com/blogs/2017/january/apple-pay-development) - пример на Asp Net MVC. Показывается сторона BACKEND(то есть только валидация мерчанта)
+1. [https://stackoverflow.com](https://stackoverflow.com/questions/26389899/how-do-i-disable-ssl-fallback-and-use-only-tls-for-outbound-connections-in-net) - как создать tls 1.2 соединение. `ВАЖНО` для прочтения.
+1. [https://stackoverflow.com](https://stackoverflow.com/questions/43522299/sandbox-apple-pay-testing-handshake-failure?rq=1) - хороший пример кода валидации мерчанта.`ПОЛЕЗНО`
