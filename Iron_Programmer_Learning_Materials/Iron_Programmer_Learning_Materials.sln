@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Tests", "Algorit
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{95AC14CE-5F32-4EF8-A750-71B29CA45BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdiotGenius", "Games\IdiotGenius\IdiotGenius.csproj", "{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdiotGenius", "Games\IdiotGenius\IdiotGenius.csproj", "{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldOfDreams", "FieldOfDreams\FieldOfDreams.csproj", "{3F4C708E-2801-44A1-8EDB-FD609C3A958B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{003C65A5-31B0-4C63-A79A-D5060532FDE9} = {53BE006C-F045-410D-A95A-82C7FBE7EEF0}
 		{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D} = {95AC14CE-5F32-4EF8-A750-71B29CA45BB8}
+		{3F4C708E-2801-44A1-8EDB-FD609C3A958B} = {95AC14CE-5F32-4EF8-A750-71B29CA45BB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E826EA86-3994-49CA-B2E6-5FAA6AF1D72E}
