@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdiotGenius", "Games\IdiotG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldOfDreams", "FieldOfDreams\FieldOfDreams.csproj", "{3F4C708E-2801-44A1-8EDB-FD609C3A958B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear", "Searching\Linear\Linear.csproj", "{0915292D-CB6B-4E9E-8531-FAF90B97EEC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Searching", "Searching", "{EE2179B7-3A63-4BC4-B4BE-E2152108A726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4C708E-2801-44A1-8EDB-FD609C3A958B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0915292D-CB6B-4E9E-8531-FAF90B97EEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0915292D-CB6B-4E9E-8531-FAF90B97EEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0915292D-CB6B-4E9E-8531-FAF90B97EEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0915292D-CB6B-4E9E-8531-FAF90B97EEC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{003C65A5-31B0-4C63-A79A-D5060532FDE9} = {53BE006C-F045-410D-A95A-82C7FBE7EEF0}
 		{8807FD5F-482A-4A13-8E93-B84B2B4F2B8D} = {95AC14CE-5F32-4EF8-A750-71B29CA45BB8}
 		{3F4C708E-2801-44A1-8EDB-FD609C3A958B} = {95AC14CE-5F32-4EF8-A750-71B29CA45BB8}
+		{0915292D-CB6B-4E9E-8531-FAF90B97EEC7} = {EE2179B7-3A63-4BC4-B4BE-E2152108A726}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E826EA86-3994-49CA-B2E6-5FAA6AF1D72E}
