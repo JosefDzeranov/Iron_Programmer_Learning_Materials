@@ -103,5 +103,27 @@ namespace Linear
 
             Console.WriteLine(nearElement);
         }
+
+        /// <summary>
+        /// номер максимального элемента в массиве. Если в массиве несколько максимальных элементов, выведите максимальный номер.
+        /// </summary>
+        public void Task4()
+        {
+            string line = Console.ReadLine();
+            string[] splits = line.Split('');
+            int max = 0;
+            int indexMax = 0;
+            for (int index = 0; index < splits.Length; index++)
+            {
+                int element = Convert.ToInt32(splits[index]);
+                if (element >= max)
+                {
+                    max = element;
+                    indexMax = index;
+                }
+            }
+
+            Console.WriteLine(indexMax);
+        }
     }
 }
