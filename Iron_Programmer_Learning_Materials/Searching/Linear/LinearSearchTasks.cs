@@ -110,7 +110,7 @@ namespace Linear
         public void Task4()
         {
             string line = Console.ReadLine();
-            string[] splits = line.Split('');
+            string[] splits = line.Split(' ');
             int max = 0;
             int indexMax = 0;
             for (int index = 0; index < splits.Length; index++)
@@ -187,6 +187,65 @@ namespace Linear
                     Console.WriteLine(i + 1);
                     break;
                 }
+            }
+        }
+
+        /// <summary>
+        /// Школьник Витя получил доступ к онлайн журналу на ДНЕВНИК.РУ и хочет заменить все свои минимальные оценки на максимальные. 
+        /// Помогите Вите, напишите программу, которая заменяет его минимальные оценки на максимальные.
+        /// </summary>
+        public void Task8()
+        {
+            var n = Convert.ToInt32(Console.ReadLine());
+            var line = Console.ReadLine();
+            var array = GetIntArray(line);
+
+            var max = 2;
+            var min = 5;
+            for (int i = 0; i < n; i++)
+            {
+                var number = array[i];
+                if (number > max)
+                {
+                    max = number;
+                }
+                if (number < min)
+                {
+                    min = number;
+                }
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                if (array[i] == min)
+                {
+                    array[i] = max;
+                }
+            }
+
+            Print(array);
+        }
+
+        private int[] GetIntArray(string line)
+        {
+            var splitString = line.Split(' ');
+            int length = splitString.Length;
+            var array = new int[length];
+
+            for (var i = 0; i < length; i++)
+            {
+                var number = Convert.ToInt32(splitString[i]);
+                array[i] = number;
+            }
+
+            return array;
+        }
+
+        private void Print(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
             }
         }
     }
