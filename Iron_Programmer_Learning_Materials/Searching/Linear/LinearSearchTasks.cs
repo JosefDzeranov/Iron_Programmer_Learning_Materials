@@ -125,5 +125,25 @@ namespace Linear
 
             Console.WriteLine(indexMax);
         }
+
+        /// <summary>
+        /// Напишите программу, которая выводит номера элементов последовательности, равных данному числу.
+        /// </summary>
+        public void Task5()
+        {
+            var n = Convert.ToInt32(Console.ReadLine());
+            var line = Console.ReadLine();
+            var splitString = line.Split(' ');
+            var x = Convert.ToInt32(Console.ReadLine());
+
+            for (var i = 0; i < n; i++)
+            {
+                var number = Convert.ToInt32(splitString[i]);
+                if (number == x)
+                {
+                    Console.Write(i + 1 + " ");
+                }
+            }            
+        }
     }
 }
