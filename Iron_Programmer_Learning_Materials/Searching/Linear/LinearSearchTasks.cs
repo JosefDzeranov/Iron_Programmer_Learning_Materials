@@ -143,7 +143,51 @@ namespace Linear
                 {
                     Console.Write(i + 1 + " ");
                 }
-            }            
+            }
+        }
+
+        /// <summary>
+        /// Напишите программу, которая выводит номер элемента последовательности, равный данному числу. 
+        /// Если таких элементов несколько, выведите номер первого из них. 
+        /// </summary>
+        public void Task6()
+        {
+            var n = Convert.ToInt32(Console.ReadLine());
+            var line = Console.ReadLine();
+            var splitString = line.Split(' ');
+            var x = Convert.ToInt32(Console.ReadLine());
+
+            for (var i = 0; i < n; i++)
+            {
+                var number = Convert.ToInt32(splitString[i]);
+                if (number == x)
+                {
+                    Console.WriteLine(i + 1);
+                    break;
+                }
+            }
+        }
+
+        /// <summary>
+        /// Напишите программу, которая выводит номер элемента последовательности, равный данному числу. 
+        /// Если таких элементов несколько, выведите номер последнего из них. 
+        /// </summary>
+        public void Task7()
+        {
+            var n = Convert.ToInt32(Console.ReadLine());
+            var line = Console.ReadLine();
+            var splitString = line.Split(' ');
+            var x = Convert.ToInt32(Console.ReadLine());
+
+            for (var i = n - 1; i >= 0; i--)
+            {
+                var number = Convert.ToInt32(splitString[i]);
+                if (number == x)
+                {
+                    Console.WriteLine(i + 1);
+                    break;
+                }
+            }
         }
     }
 }
